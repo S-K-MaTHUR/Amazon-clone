@@ -25,12 +25,13 @@ body {
     width: 100px;
 }
 
-.logo {
-    background-image: url("amazon_logo.png");
+.logo{
+    background-image: url("amazon_logo\ \(1\).png");
     height: 50px;
     width: 100%;
     background-size: cover;
 }
+
 
 .border {
     border: 1.5px solid transparent;
